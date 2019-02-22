@@ -1,0 +1,11 @@
+copas...
+bagian @NgModule({
+    imports: [
+        BrowserModule,
+        DxPieChartModule
+    ],
+    declarations: [AppComponent],
+    bootstrap: [AppComponent]
+})
+
+taruh di app-routing.module.ts
